@@ -1,6 +1,6 @@
-# Digital Standard Cell Characterizer (DSCC)  
+# Standard Cell Characterization Tool
 
-<img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/nelzeg/stdcell-characterizer?style=flat-square"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/nelzeg/stdcell-characterizer?style=flat-square">
+<img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/lenzseg/std-cell-characterization-tool?style=flat-square"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/lenzseg/std-cell-characterization-tool?style=flat-square">
 
 
 Python-based electronic design automation (EDA) tool for characterizing digital standard cells designed in [SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/). The characterization process is based in the [***Synopsys** Liberty User Guides and Reference Manual Suite - Version 2017.06*](Synopsys_Liberty_User_Guides_and_Reference_Manual_Suite_Version_2017.06.pdf) 
@@ -43,5 +43,3 @@ python3 dscc.py thesis_aoi211.mag \\
 <div align="center"><b >👇🏼 Click on the image to watch the slides</b></div>
 <br>
 <div align="center"><a href="https://docs.google.com/presentation/d/e/2PACX-1vSiSyyyWhbehkQ2xNrCZK2VOh_s4KmKSZHU7BYJNZw7zeUBU8BMkgzOVHIq0tX81F9O7TQF6yfjhio4/pub?start=false&loop=false&delayms=60000"><img src="slides_cover.png" target="_blank" frameborder="0" width="680" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></a></div>
-
-
